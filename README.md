@@ -1,5 +1,7 @@
 # WP SocketIO Emiter
 
+[![Build Status](https://travis-ci.org/miya0001/wp-socketio-emiter.svg?branch=master)](https://travis-ci.org/miya0001/wp-socketio-emiter)
+
 ## Getting started
 
 ```
