@@ -1,6 +1,6 @@
 # WP SocketIO Emiter
 
-[![Build Status](https://travis-ci.org/miya0001/wp-socketio-emiter.svg?branch=master)](https://travis-ci.org/miya0001/wp-socketio-emiter)
+[![Build Status](https://travis-ci.org/miya0001/wp-socketio-emiter.svg?branch=master)](https://travis-ci.org/miya0001/wp-socketio-emiter) [![Latest Stable Version](https://poser.pugx.org/miya0001/wp-socketio-emiter/v/stable.svg)](https://packagist.org/packages/miya0001/wp-socketio-emiter) [![Total Downloads](https://poser.pugx.org/miya0001/wp-socketio-emiter/downloads.svg)](https://packagist.org/packages/miya0001/wp-socketio-emiter) [![Latest Unstable Version](https://poser.pugx.org/miya0001/wp-socketio-emiter/v/unstable.svg)](https://packagist.org/packages/miya0001/wp-socketio-emiter) [![License](https://poser.pugx.org/miya0001/wp-socketio-emiter/license.svg)](https://packagist.org/packages/miya0001/wp-socketio-emiter)
 
 ## Getting started
 
