@@ -16,3 +16,12 @@ use miya0001\WP;
 $io = new SocketIO_Emiter( 'http://example.com/', 3000 );
 $io->send( 'broadcast', [ 'name' => 'John', 'message' => 'hello' ] );
 ```
+
+With `namespace`
+
+```
+use miya0001\WP;
+
+$io = new SocketIO_Emiter( 'http://example.com/', 3000 );
+$io->send( 'broadcast', [ 'name' => 'John', 'message' => 'hello' ], '/mynamespace' );
+```
